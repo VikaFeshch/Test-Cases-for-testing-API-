@@ -8,7 +8,7 @@ Write a test cases that checks the status of the code after  Creating a new cate
 
 
 ## Test suit
----
+
 
 
 Project Name:	http://www.non-existentServername.net/api/v1/categories
@@ -26,7 +26,7 @@ id test case | Sumary | Priority | Status
 [CNC-3](https://docs.google.com/spreadsheets/d/1_6jp2GRhWapj2tCie9XGnEAu0N8MJsADe3dRVkV2P0c/edit?usp=share_link) | User submits a request for a new category creation with empty fields	| Hight | 
 
 ## Test cases
----
+
 
 1. User submits a request for a new category creation AND a value in the "Name" parameter is unique [CNC-1](https://docs.google.com/spreadsheets/d/1Equ1_ZE7_XS94r97fK_vtRb6F1Vwp1EA_jpILSB8KpQ/edit?usp=share_link)
 2. User submits a request for a new category creation AND a value in the "Name" parameter is NOT unique [CNC-2](https://docs.google.com/spreadsheets/d/1A4_1YmPT6nyxgdgDHW3Ql4ZLM1kaaR3gQkU81QL5DO8/edit?usp=share_link)
