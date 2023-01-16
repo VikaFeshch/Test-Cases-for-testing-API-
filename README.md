@@ -21,9 +21,9 @@ Test Designed date:	24.12.2022
 
 id test case | Sumary | Priority | Status
 --- | --- | --- | ---
-[CNC-1](https://docs.google.com/spreadsheets/d/1Equ1_ZE7_XS94r97fK_vtRb6F1Vwp1EA_jpILSB8KpQ/edit?usp=share_link) | User submits a request for a new category creation AND a value in the "Name" parameter is unique categories			| Hight | 
-[CNC-2](https://docs.google.com/spreadsheets/d/1A4_1YmPT6nyxgdgDHW3Ql4ZLM1kaaR3gQkU81QL5DO8/edit?usp=share_link) | User submits a request for a new category creation AND a value in the "Name" parameter is NOT unique	| Hight | 
-[CNC-3](https://docs.google.com/spreadsheets/d/1_6jp2GRhWapj2tCie9XGnEAu0N8MJsADe3dRVkV2P0c/edit?usp=share_link) | User submits a request for a new category creation with empty fields	| Hight | 
+[CNC-1](https://docs.google.com/spreadsheets/d/1Equ1_ZE7_XS94r97fK_vtRb6F1Vwp1EA_jpILSB8KpQ/edit?usp=share_link) | User submits a request for a new category creation AND a value in the "Name" parameter is unique categories			| High | 
+[CNC-2](https://docs.google.com/spreadsheets/d/1A4_1YmPT6nyxgdgDHW3Ql4ZLM1kaaR3gQkU81QL5DO8/edit?usp=share_link) | User submits a request for a new category creation AND a value in the "Name" parameter is NOT unique	| High | 
+[CNC-3](https://docs.google.com/spreadsheets/d/1_6jp2GRhWapj2tCie9XGnEAu0N8MJsADe3dRVkV2P0c/edit?usp=share_link) | User submits a request for a new category creation with empty fields	| High | 
 
 ## Test cases
 
